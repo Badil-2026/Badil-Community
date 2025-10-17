@@ -1,0 +1,1 @@
+# The core philosophy and long-term direction
