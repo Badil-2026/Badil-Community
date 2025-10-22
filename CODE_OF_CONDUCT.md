@@ -8,7 +8,7 @@ Quick links:
 - Principles (summary): see README.md → "Our Principles"
 - Contributing guide: CONTRIBUTING.md
 - Proposals and decisions: https://focusthing.com
-- Discord (working groups): https://discord.com/XXXXXXXXX
+- Discord (working groups): https://discord.gg/XbCuWGt5yA
 - Telegram (announcements/core chat): https://t.me/+QarM9JIzLRsxY2E0
 
 ---
