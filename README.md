@@ -42,7 +42,7 @@ We are not yet a registered entity — we are **a group of people** coming toget
 7. Anti-speculation
 8. Reinvestment into moral and social development
 
-For context and rationale, read the [BADIL IT manifesto summary](BADIL%20IT%20manifesto%20summary.md).
+For context and rationale, read the [BADIL IT manifesto](BADIL%20IT%20manifesto.md).
 
 ## 🎯 Immediate goals
 
@@ -53,7 +53,7 @@ For context and rationale, read the [BADIL IT manifesto summary](BADIL%20IT%20ma
 ## 📖 Learn more
 
 - Vision Manifesto: [VISION.md](VISION.md)
-- Manifesto Summary: [BADIL IT manifesto summary.md](BADIL%20IT%20manifesto%20summary.md)
+- Manifesto Summary: [BADIL IT manifesto.md](BADIL%20IT%20manifesto.md)
 
 ---
 
@@ -62,7 +62,7 @@ For context and rationale, read the [BADIL IT manifesto summary](BADIL%20IT%20ma
 | Tool / Platform | Purpose | Link |
 |------------------|----------|------|
 | 🗳️ **Decidim Instance** | Democratic participation, proposals & voting | [focusthing.com](https://focusthing.com) |
-| 🎮 **Discord Server** | Real-time collaboration & working groups | [Join our Discord](https://discord.com/XXXXXXXXX) |
+| 🎮 **Discord Server** | Real-time collaboration & working groups | [Join our Discord](https://discord.gg/XbCuWGt5yA) |
 | 💬 **Telegram Group** | Core discussions & announcements | [Join our group](https://t.me/+QarM9JIzLRsxY2E0) |
 | 📂 **Google Drive Folder** | Shared documents, brainstorming, media, summaries | [Access here](http://drive.google.com/drive/folders/1u9t09Q3_uPXOqm9N6g4fFRx17J7Mx80l) |
 
