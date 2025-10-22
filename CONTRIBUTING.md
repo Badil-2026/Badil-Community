@@ -4,7 +4,7 @@ We’re building a transparent, moral, community-governed ecosystem. Contributio
 
 Quick links:
 - Participate and vote: https://focusthing.com
-- Discord (working groups): https://discord.com/XXXXXXXXX
+- Discord (working groups): https://discord.gg/XbCuWGt5yA
 - Telegram (announcements/core chat): https://t.me/+QarM9JIzLRsxY2E0
 - Code of Conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
@@ -43,7 +43,7 @@ Small suggestions and housekeeping can be filed as GitHub Issues, but strategic 
 ---
 
 ## 4) Working groups
-- Join Discord: https://discord.com/XXXXXXXXX
+- Join Discord: https://discord.gg/XbCuWGt5yA
 - Introduce your skills and interests in the appropriate channel
 - Coordinators help split tasks and align with the current Roadmap
 
