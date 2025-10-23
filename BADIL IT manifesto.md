@@ -26,7 +26,7 @@ We reject the illusion that a “new party” or “new leader” can fix corrup
 
 ### 2. To Restore Morality in Technology
 Modern technology has advanced faster than its moral framework.  
-We use code to optimize profit, not justice. We build systems that serve people, not power.  
+We use code to optimize profit, not justice. We build systems that serve power, not people.  
 
 BADIL challenges that trajectory.  
 Our mission is to **bring back a moral compass to technology**, ensuring every tool we create is guided by ethical intent and public good.
