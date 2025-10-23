@@ -3,7 +3,7 @@
 ## 🌍 Introduction
 BADIL was born from necessity — a response to the widespread corruption, manipulation, and loss of trust in the systems that claim to represent and serve us.
 
-We do not seek to replace one corrupt structure with another, nor to create a new political party.  
+We do not seek to replace one corrupt structure with another. 
 We aim to **end the cycle of corruption itself** by proving that technology, guided by moral principles, can be used to build transparent, accountable, and community-owned systems.
 
 BADIL is not an ideology — it is a **framework for moral governance through technology**.
@@ -26,7 +26,7 @@ We reject the illusion that a “new party” or “new leader” can fix corrup
 
 ### 2. To Restore Morality in Technology
 Modern technology has advanced faster than its moral framework.  
-We use code to optimize profit, not justice. We build systems that serve power, not people.  
+We use code to optimize profit, not justice. We build systems that serve people, not power.  
 
 BADIL challenges that trajectory.  
 Our mission is to **bring back a moral compass to technology**, ensuring every tool we create is guided by ethical intent and public good.
